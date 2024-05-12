@@ -1,0 +1,4 @@
+Classification and heatmaps - It will allow government to plan budgets better for states with classification of high, mid and low crime rates.
+Linear Regression will allow better prediction and future planning of resource allocation
+The policies can be recommended to different states government based on the historical data available of states.
+
